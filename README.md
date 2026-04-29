@@ -1,10 +1,10 @@
 # Restaurante Sabores de Chile - Prototipo Web v6.0
 
-Este proyecto corresponde a la tarea de la **Semana 6** de la asignatura **Programación Web I**. En esta etapa, el foco principal es la aplicación del **Modelo de Cajas (Box Model)**, técnicas de **Posicionamiento** y el **Dimensionamiento** avanzado de elementos para lograr una maquetación profesional y coherente.
+Este proyecto corresponde a la tarea de la **Semana 6** de la asignatura **Programación Web I**. En esta etapa, el foco principal es la aplicación del **Modelo de Cajas (Box Model)**, técnicas de **Posicionamiento** y el **Dimensionamiento** avanzado de elementos para lograr una maquetación profesional.
 
 ## 📝 Descripción del Proyecto
 
-En esta versión se transformó la estructura visual del sitio mediante el control preciso del espacio y la ubicación de los elementos:
+En esta versión se transformó la estructura visual del sitio mediante el control del espacio y la ubicación de los elementos:
 
 ### 1. Aplicación del Modelo de Cajas (Box Model)
 Se configuraron las secciones principales (`header`, `main`, `footer`) controlando sus cuatro componentes esenciales:
@@ -26,10 +26,9 @@ Se aplicaron técnicas de posicionamiento avanzado en la sección "Plato de la S
 - **Dimensionamiento:** Uso de `max-width` y `height: auto` para asegurar que los elementos multimedia mantengan su proporción y se adapten al contenedor padre.
 
 ## 🛠️ Tecnologías Utilizadas
-- **HTML5:** Estructura semántica, marcos flotantes (`iframe`) y formularios.
-- **CSS3:** Selectores avanzados, manejo de herencia, especificidad y modelo de cajas.
+- **HTML5:** Estructura semántica, formularios y multimedia.
+- **CSS3:** Modelo de cajas, posicionamiento (relative/absolute), dimensionamiento y efectos visuales (sombras, transiciones).
 - **Navegador Recomendado:** Google Chrome (por su alto cumplimiento de estándares CSS3).
-- **Herramientas de Desarrollo:** Visual Studio Code con extensión **Prettier** para la limpieza y orden del código.
 
 ## 👩‍💻 Desarrollado por:
 
